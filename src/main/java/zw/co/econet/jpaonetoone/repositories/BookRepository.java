@@ -1,4 +1,4 @@
-package zw.co.econet.jpaonetoone.repository;
+package zw.co.econet.jpaonetoone.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
